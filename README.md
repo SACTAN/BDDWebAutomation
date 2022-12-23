@@ -19,7 +19,7 @@ MAVEN_HOME = Path to maven installation
 
 To Run Test Cases:
 
-1. For Frontend test cases : Right click inside the RunTempUi file and click on Run as shown in below screen shot
+1. For Frontend test cases : Right click inside the RunTemp file and click on Run as shown in below screen shot
 ![image](https://user-images.githubusercontent.com/15245372/209283473-1ba53eb2-4873-4703-a009-ab9d0cf85cfb.png)
 
 TO check Execution Report:
